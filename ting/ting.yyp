@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "433afa85-1569-4462-af85-7c0ba94cdadc",
+            "Value": {
+                "id": "3549a379-bd50-4a26-adbb-b821188f153e",
+                "resourcePath": "objects\\object0\\object0.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "43a55667-5738-4b4e-a066-b0d53c725acd",
             "Value": {
                 "id": "59ded6b7-2d43-4f62-8725-64f4777c9310",
@@ -108,6 +116,14 @@
                 "id": "2bc0a9d8-abb2-45e0-b15e-20e98766204d",
                 "resourcePath": "views\\62be777b-ca8c-460f-8108-5135a249b28d.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "741b8f88-1237-4920-9dd9-5153b896ad8d",
+            "Value": {
+                "id": "c06fc68e-5454-4adc-abd6-aaa35f8871ac",
+                "resourcePath": "sprites\\sprite0\\sprite0.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -143,6 +159,14 @@
             }
         },
         {
+            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
+            "Value": {
+                "id": "950b9f30-d23b-4ac6-add9-21efe7014c68",
+                "resourcePath": "options\\linux\\options_linux.yy",
+                "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "4144142d-6af8-4e78-b76b-8da8378af19e",
@@ -164,6 +188,14 @@
                 "id": "a4f4c19d-c799-400e-958e-b80f1bb70a6a",
                 "resourcePath": "views\\f1207b84-e150-40c3-a0d9-c4b7a0bdfc8c.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
+            "Value": {
+                "id": "9f8d0b59-b229-4db5-8644-e2430d00ed1d",
+                "resourcePath": "options\\mac\\options_mac.yy",
+                "resourceType": "GMMacOptions"
             }
         },
         {
