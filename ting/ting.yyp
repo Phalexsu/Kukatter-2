@@ -39,14 +39,6 @@
             }
         },
         {
-            "Key": "08ee7a02-cc92-493f-b5c9-ab2bfb25d4aa",
-            "Value": {
-                "id": "ffdfde9a-bc6a-41af-a6c3-d1e65f38c4fd",
-                "resourcePath": "sprites\\sWisp\\sWisp.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "0c10a45d-9aaf-4151-b005-38b5623b75db",
             "Value": {
                 "id": "86e46f4c-6b77-4347-97e9-7bf34b35a0bb",
